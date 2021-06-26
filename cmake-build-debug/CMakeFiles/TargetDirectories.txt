@@ -1,9 +1,10 @@
 /Users/aomsir/MyStudy/专业课/C++/Code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/aomsir/MyStudy/专业课/C++/Code/cmake-build-debug/CMakeFiles/Code.dir
-/Users/aomsir/MyStudy/专业课/C++/Code/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/aomsir/MyStudy/专业课/C++/Code/cmake-build-debug/CMakeFiles/derive_more_2.dir
 /Users/aomsir/MyStudy/专业课/C++/Code/cmake-build-debug/CMakeFiles/StudentAddressBook.dir
 /Users/aomsir/MyStudy/专业课/C++/Code/cmake-build-debug/CMakeFiles/test1.dir
 /Users/aomsir/MyStudy/专业课/C++/Code/cmake-build-debug/CMakeFiles/test.dir
+/Users/aomsir/MyStudy/专业课/C++/Code/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/aomsir/MyStudy/专业课/C++/Code/cmake-build-debug/CMakeFiles/Code.dir
 /Users/aomsir/MyStudy/专业课/C++/Code/cmake-build-debug/实验题/CMakeFiles/rebuild_cache.dir
 /Users/aomsir/MyStudy/专业课/C++/Code/cmake-build-debug/实验题/CMakeFiles/edit_cache.dir
 /Users/aomsir/MyStudy/专业课/C++/Code/cmake-build-debug/派生与继承/CMakeFiles/rebuild_cache.dir
