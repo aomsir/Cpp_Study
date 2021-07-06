@@ -157,6 +157,19 @@ StudentAddressBook/fast:
 .PHONY : StudentAddressBook/fast
 
 #=============================================================================
+# Target rules for targets named 22
+
+# Build rule for target.
+22: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 22
+.PHONY : 22
+
+# fast build rule for target.
+22/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/22.dir/build.make CMakeFiles/22.dir/build
+.PHONY : 22/fast
+
+#=============================================================================
 # Target rules for targets named test1
 
 # Build rule for target.
@@ -221,6 +234,33 @@ C++测试/main.s: C++测试/main.cpp.s
 C++测试/main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/C++测试/main.cpp.s
 .PHONY : C++测试/main.cpp.s
+
+C语言测试/22.o: C语言测试/22.cpp.o
+
+.PHONY : C语言测试/22.o
+
+# target to build an object file
+C语言测试/22.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/22.dir/build.make CMakeFiles/22.dir/C语言测试/22.cpp.o
+.PHONY : C语言测试/22.cpp.o
+
+C语言测试/22.i: C语言测试/22.cpp.i
+
+.PHONY : C语言测试/22.i
+
+# target to preprocess a source file
+C语言测试/22.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/22.dir/build.make CMakeFiles/22.dir/C语言测试/22.cpp.i
+.PHONY : C语言测试/22.cpp.i
+
+C语言测试/22.s: C语言测试/22.cpp.s
+
+.PHONY : C语言测试/22.s
+
+# target to generate assembly for a file
+C语言测试/22.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/22.dir/build.make CMakeFiles/22.dir/C语言测试/22.cpp.s
+.PHONY : C语言测试/22.cpp.s
 
 C语言测试/test.o: C语言测试/test.c.o
 
@@ -341,6 +381,7 @@ help:
 	@echo "... depend"
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
+	@echo "... 22"
 	@echo "... Code"
 	@echo "... StudentAddressBook"
 	@echo "... derive_more_2"
@@ -349,6 +390,9 @@ help:
 	@echo "... C++测试/main.o"
 	@echo "... C++测试/main.i"
 	@echo "... C++测试/main.s"
+	@echo "... C语言测试/22.o"
+	@echo "... C语言测试/22.i"
+	@echo "... C语言测试/22.s"
 	@echo "... C语言测试/test.o"
 	@echo "... C语言测试/test.i"
 	@echo "... C语言测试/test.s"

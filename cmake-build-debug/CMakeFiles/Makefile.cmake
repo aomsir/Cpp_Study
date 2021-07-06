@@ -66,6 +66,7 @@ set(CMAKE_MAKEFILE_PRODUCTS
 set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/derive_more_2.dir/DependInfo.cmake"
   "CMakeFiles/StudentAddressBook.dir/DependInfo.cmake"
+  "CMakeFiles/22.dir/DependInfo.cmake"
   "CMakeFiles/test1.dir/DependInfo.cmake"
   "CMakeFiles/test.dir/DependInfo.cmake"
   "CMakeFiles/Code.dir/DependInfo.cmake"

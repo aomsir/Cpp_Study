@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/aomsir/MyStudy/专业课/C++/Code/C语言测试/22.cpp
+time.h
+-
+stdio.h
+-
+math.h
+-
+conio.h
+-
+

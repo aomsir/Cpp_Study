@@ -17,3 +17,4 @@ add_executable(test C语言测试/test.c)
 
 add_executable(StudentAddressBook 题目/StudentAddressBook.c)
 add_executable(derive_more_2 派生与继承/derive_more_2.cpp)
+add_executable(22 C语言测试/22.cpp)
