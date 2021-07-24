@@ -17,7 +17,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="685dc23d-bdfe-4556-a20b-abb0aafc8891" name="默认的" comment="默认的">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C语言测试/test.c" beforeDir="false" afterPath="$PROJECT_DIR$/C语言测试/test.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,6 +83,11 @@
     </key>
   </component>
   <component name="RunManager" selected="CMake 应用程序.22">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="22" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Code" TARGET_NAME="22" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Code" RUN_TARGET_NAME="22">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -110,6 +116,11 @@
     <configuration name="test1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Code" TARGET_NAME="test1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Code" RUN_TARGET_NAME="test1">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <list>
@@ -238,6 +249,7 @@
       <workItem from="1625752037669" duration="206000" />
       <workItem from="1625791782785" duration="58000" />
       <workItem from="1626270521801" duration="6000" />
+      <workItem from="1627110092364" duration="98000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1619440730837</created>
