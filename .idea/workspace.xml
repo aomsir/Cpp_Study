@@ -16,10 +16,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="685dc23d-bdfe-4556-a20b-abb0aafc8891" name="默认的" comment="默认的">
-      <change beforePath="$PROJECT_DIR$/C语言测试/test.c" beforeDir="false" afterPath="$PROJECT_DIR$/C语言测试/test.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-    </list>
+    <list default="true" id="685dc23d-bdfe-4556-a20b-abb0aafc8891" name="默认的" comment="默认的" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -250,6 +247,7 @@
       <workItem from="1625791782785" duration="58000" />
       <workItem from="1626270521801" duration="6000" />
       <workItem from="1627110092364" duration="98000" />
+      <workItem from="1627212535031" duration="172000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1619440730837</created>
