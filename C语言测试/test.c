@@ -1,5 +1,9 @@
 #include <stdio.h>
 int main(){
-    int n,k;
-    scanf("%d%d",&n,&k);
+    __unused long l1;
+    __unused long l2 = 1111111121L;
+
+    printf(sizeof(l1));
+    printf(sizeof(l2));
+    printf(sizeof(long));
 }
