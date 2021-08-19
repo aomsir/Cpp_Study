@@ -3,6 +3,7 @@ int test(int);
 int main(){
     int a;
     printf(test(12));
+    printf(\t)
 }
 
 int test(int a){
