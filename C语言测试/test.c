@@ -1,9 +1,10 @@
 #include <stdio.h>
+int test(int);
 int main(){
-    __unused long l1;
-    __unused long l2 = 1111111121L;
+    int a;
+    printf(test(12));
+}
 
-    printf(sizeof(l1));
-    printf(sizeof(l2));
-    printf(sizeof(long));
+int test(int a){
+    return a > 12 ? a : -a;
 }
