@@ -1,11 +1,8 @@
 #include <stdio.h>
-int test(int);
 int main(){
-    int a;
-    printf(test(12));
-    printf(\t)
+    int a = 12;
+    int p = &a;
+    printf("%p\n",p);
+
 }
 
-int test(int a){
-    return a > 12 ? a : -a;
-}
